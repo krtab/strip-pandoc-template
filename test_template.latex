@@ -1,0 +1,12 @@
+$if(beamer)$
+NOPRINT1
+$else$
+PRINT1
+$if(foo)$
+PRINT1B
+$endif$
+$endif$
+$if(foo)$
+PRINT2
+$endif$
+PRINT3

@@ -1,0 +1,13 @@
+beamer=false
+lang=false
+beamerarticle=false
+fontfamily=false
+mainfont=false
+monofont=false
+sansfont=false
+mathfont=false
+luatexjapresetoptions=false
+CJKmainfont=false
+geometry=false
+natbib=false
+#biblatex=true
